@@ -18,5 +18,3 @@ Contents
    disadvantages
    petra
    timna
-   YOPIDUUU
-   ========
