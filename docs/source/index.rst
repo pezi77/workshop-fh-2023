@@ -17,9 +17,14 @@ Contents
    advantages
    disadvantages
    petra
-   Bettina
+   Conny   
+   bettina
+   gandi
    guenter
+   mojo
+   sylvia2
    igor
+   timna
    marcel
    Wolfgang
    martina
