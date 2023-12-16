@@ -14,7 +14,7 @@ martina
 
 
 .. warning::
-   Pass auf! Lese das bevor du zum Arbeiten beginsnt!
+   Pass auf! Lese das, bevor du zum Arbeiten beginnst!
 
 So schaut eine Tabelle aus
 --------------------------
