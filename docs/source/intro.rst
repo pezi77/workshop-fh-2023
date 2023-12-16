@@ -6,3 +6,5 @@ Main facts about docs-as-code
 docs-as-code means that the same software programs, processes and workflows are used as in software development
 
 .. figure:: ../../images/process.png
+
+and more...
