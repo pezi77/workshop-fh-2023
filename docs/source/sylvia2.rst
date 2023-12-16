@@ -39,3 +39,5 @@ Main components
 * Automated tests (link checker, formatting, terminology)
 
    * In this workshop: Not configured yet
+
+.. figure:: ../../images/process.png
