@@ -17,14 +17,10 @@ Contents
    advantages
    disadvantages
    petra
-
-
+   bettina
+   guenter
+   igor
+   marcel
+   wolfgang
    martina
 
-   igor
-   bettina
-
-
-   bettina
-
-   marcel
