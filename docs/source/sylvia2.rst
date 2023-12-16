@@ -8,8 +8,9 @@ Sylvia's Advantages
 * Reusing of contents
 * Low price due to open source
 
+.. image:: ../../images/nordic-herbst_short.png
+
 Main components
-===============
 
 * Text files (markup, markdown in contrast to binary formats such as in Adobe FrameMaker or Microsoft Word)
 
