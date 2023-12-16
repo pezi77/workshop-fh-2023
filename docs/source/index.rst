@@ -19,3 +19,7 @@ Contents
    petra
    bettina
    guenter
+   igor
+   marcel
+   wolfgang
+   martina
