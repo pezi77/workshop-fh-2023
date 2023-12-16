@@ -22,6 +22,6 @@ Contents
    guenter
    igor
    marcel
-   wolfgang
+   Wolfgang
    martina
    wolfgang
