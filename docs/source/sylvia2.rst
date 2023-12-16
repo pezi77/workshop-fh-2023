@@ -1,4 +1,4 @@
-Advantages
+Sylvia's Advantages
 ==========
 
 * Time – any time on button click you can produce a new documentation version in just a few minutes
