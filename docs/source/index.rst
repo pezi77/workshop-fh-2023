@@ -18,3 +18,7 @@ Contents
    disadvantages
    petra
    bettina
+   igor
+   marcel
+   wolfgang
+   martina
