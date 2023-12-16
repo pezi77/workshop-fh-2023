@@ -7,7 +7,7 @@
     Beim Löschen des Internets gehen alle Inhalte weltweit verloren. Stellen Sie daher sicher, dass sie damit einverstanden sind.
 
 
-Anleitung
+Anleitung - Internet löschen
 ----------
 In der Windows-Suche nach "Internet Explorer" suchen.
 Icon per Drag & Drop in den Papierkorb ziehen.
