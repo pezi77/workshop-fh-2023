@@ -17,10 +17,4 @@ Contents
    advantages
    disadvantages
    petra
-   bettina
-   guenter
-   igor
-   marcel
-   wolfgang
-   martina
-
+   timna
