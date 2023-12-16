@@ -17,9 +17,9 @@ Contents
    advantages
    disadvantages
    petra
-   bettina
+   Bettina
    guenter
    igor
    marcel
-   wolfgang
+   Wolfgang
    martina
