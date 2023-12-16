@@ -17,6 +17,4 @@ Contents
    advantages
    disadvantages
    petra
-   hihihihihi
-   Bettina
-   martina
+   bettina
