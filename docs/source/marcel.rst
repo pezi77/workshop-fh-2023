@@ -12,3 +12,7 @@ Anleitung - Internet löschen
 In der Windows-Suche nach "Internet Explorer" suchen.
 Icon per Drag & Drop in den Papierkorb ziehen.
 Sie haben das Internet erfolgreich gelöscht.
+
+
+
+.. figure:: ../../images/doodle-4678658_1280.png
