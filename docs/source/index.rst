@@ -17,5 +17,6 @@ Contents
    advantages
    disadvantages
    petra
-
-wolfgang
+   igor
+   bettina
+   wolfgang
