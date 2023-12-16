@@ -11,7 +11,6 @@ Sylvia's Advantages
 .. image:: ../../images/nordic-herbst_short.png
 
 Main components
-===============
 
 * Text files (markup, markdown in contrast to binary formats such as in Adobe FrameMaker or Microsoft Word)
 
