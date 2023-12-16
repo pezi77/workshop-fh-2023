@@ -1,6 +1,10 @@
 Igor
 ==========
+.. image:: ../../images/nordic-herbst_short.png
 
+.. note::
+
+   Bearbeiten auf eigene Gefahr!
 * Time – any time on button click you can produce a new documentation version in just a few minutes
 * Developer friendly > devs don‘t have to leave their IDEs
 * Versioning and traceability
