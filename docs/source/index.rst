@@ -17,11 +17,5 @@ Contents
    advantages
    disadvantages
    petra
-
-
-
-
-
-
-
-   mojo
+   igor
+   bettina
