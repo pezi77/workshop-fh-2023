@@ -17,5 +17,4 @@ Contents
    advantages
    disadvantages
    petra
-   igor
-   martina
+   bettina
